@@ -1,6 +1,6 @@
 import asyncio
 from aiogram import Bot
-from config_data.config import load_config, Config
+from config_data.config import load_config, Conf
 from create_dp import dp
 
 
